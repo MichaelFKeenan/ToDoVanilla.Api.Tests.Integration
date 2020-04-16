@@ -93,3 +93,5 @@ C:\Github\ToDoVanilla.Api.Tests.Integration\ToDoVanilla.Api.Tests.Integration\To
 C:\Github\ToDoVanilla.Api.Tests.Integration\ToDoVanilla.Api.Tests.Integration\ToDoVanilla.Api.Tests.Integration\obj\Debug\netcoreapp3.1\ToDoVanilla.Api.Tests.Integration.dll
 C:\Github\ToDoVanilla.Api.Tests.Integration\ToDoVanilla.Api.Tests.Integration\ToDoVanilla.Api.Tests.Integration\obj\Debug\netcoreapp3.1\ToDoVanilla.Api.Tests.Integration.pdb
 C:\Github\ToDoVanilla.Api.Tests.Integration\ToDoVanilla.Api.Tests.Integration\ToDoVanilla.Api.Tests.Integration\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Github\ToDoVanilla.Api.Tests.Integration\ToDoVanilla.Api.Tests.Integration\ToDoVanilla.Api.Tests.Integration\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Github\ToDoVanilla.Api.Tests.Integration\ToDoVanilla.Api.Tests.Integration\ToDoVanilla.Api.Tests.Integration\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
