@@ -10,7 +10,7 @@ namespace ToDoVanilla.Api.Tests.Integration
     //connect on constructor and make a singleton
     public class DataManagement
     {
-        const string connString = "Host=localhost;Port=5432;Username=postgres;Password=hwaaw488;Database=todo_test";
+        const string connString = "Host=localhost;Port=5432;Username=postgres;Password=xszRC7!v5LR;Database=todo_test";
 
         public async Task SetUpTestData()
         {
